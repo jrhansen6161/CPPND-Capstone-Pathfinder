@@ -1,0 +1,41 @@
+Name Tor
+Ancestry Dwarf
+Background Herbalist
+Class Fighter
+SpellTradition None
+HP 23 23 10 10
+Speed 20 20
+Level 1
+Experience 0
+WeaponProficiency Martial Expert
+ArmorProficiency Heavy Trained
+Armor Breastplate 17
+ClassDC Strength Trained
+Fortitude Expert 8
+Reflex Expert 5
+Will Trained 5
+Strength 18 4
+Dexterity 10 0
+Constitution 16 3
+Intelligence 12 1
+Wisdom 14 2
+Charisma 8 -1
+Perception Expert 6
+Acrobatics Untrained 0
+Arcana Untrained 1
+Athletics Trained 7
+Crafting Trained 4
+Deception Untrained -1
+Diplomacy Untrained -1
+Intimidation Untrained -1
+Medicine Trained 5
+Nature Trained 5
+Occultism Untrained 1
+Performance Untrained -1
+Religion Untrained 2
+Society Trained 4
+Stealth Untrained 0
+Survival Trained 5
+Thievery Untrained 0
+Weapon Warhammer 0 d8 Bludgeoning
+Weapon Javelin 1 d6 Piercing

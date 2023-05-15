@@ -1,0 +1,43 @@
+Name Ada
+Ancestry Gnome
+Background Dropout
+Class Sorcerer
+SpellTradition Primal
+HP 16 16 6 8
+Speed 25 25
+Level 1
+Experience 0
+WeaponProficiency Simple Trained
+ArmorProficiency Unarmored Trained
+Armor Clothing 16
+ClassDC Charisma Trained
+Fortitude Trained 5
+Reflex Trained 6
+Will Expert 6
+Strength 8 -1
+Dexterity 16 3
+Constitution 14 2
+Intelligence 10 0
+Wisdom 12 1
+Charisma 18 4
+Perception Trained 3
+Acrobatics Untrained 3
+Arcana Trained 3
+Athletics Untrained -1
+Crafting Untrained 0
+Deception Trained 7
+Diplomacy Trained 7
+Intimidation Untrained 4
+Medicine Untrained 1
+Nature Untrained 1
+Occultism Untrained 0
+Performance Untrained 4
+Religion Untrained 1
+Society Untrained 0
+Stealth Trained 6
+Survival Untrained 1
+Thievery Untrained 3
+Weapon Fist 0 d4 Bludgeoning
+Weapon Staff 0 d4 Bludgeoning
+Spell Electric_Arc 30 1d4 Ability Modifer Electricity
+Spell Ray_of_Frost 120 1d4 Ability Modifer Cold

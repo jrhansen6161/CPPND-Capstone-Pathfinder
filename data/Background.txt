@@ -1,0 +1,16 @@
+Background Acolyte Boost Intelligence Boost Wisdom Skill Religion
+Background Acrobat Boost Strength Boost Dexterity Skill Acrobatics
+Background Charlatan Boost Intelligence Boost Charisma Skill Deception
+Background Criminal Boost Dexterity Boost Intelligence Skill Stealth
+Background Cultist Boost Intelligence Boost Charisma Skill Occultism
+Background Detective Boost Intelligence Boost Wisdom Skill Society
+Background Dropout Boost Intelligence Boost Charisma Skill Arcana
+Background Entertainer Boost Dexterity Boost Charisma Skill Performance
+Background Guard Boost Strength Boost Charisma Skill Intimidation
+Background Herbalist Boost Constitution Boost Wisdom Skill Nature
+Background Laborer Boost Strength Boost Constitution Skill Athletics
+Background Medic Boost Constitution Boost Wisdom Skill Medicine
+Background Merchant Boost Intelligence Boost Charisma Skill Diplomacy
+Background Nomad Boost Constitution Boost Wisdom Skill Survival
+Background Tinker Boost Dexterity Boost Intelligence Skill Crafting
+Background Urchin Boost Dexterity Boost Constitution Skill Thievery

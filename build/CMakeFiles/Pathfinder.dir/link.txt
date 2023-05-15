@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17   CMakeFiles/Pathfinder.dir/src/Character.cpp.o CMakeFiles/Pathfinder.dir/src/Constants.cpp.o CMakeFiles/Pathfinder.dir/src/DataParser.cpp.o CMakeFiles/Pathfinder.dir/src/Dice.cpp.o CMakeFiles/Pathfinder.dir/src/VectorManip.cpp.o CMakeFiles/Pathfinder.dir/src/main.cpp.o  -o Pathfinder 

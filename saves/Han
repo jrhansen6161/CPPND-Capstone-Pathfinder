@@ -1,0 +1,40 @@
+Name Han
+Ancestry Human
+Background Urchin
+Class Rogue
+HP 19 19 8 8
+Speed 25 25
+Level 1
+Experience 0
+WeaponProficiency Simple Trained
+ArmorProficiency Light Trained
+Armor Leather 18
+ClassDC Dexterity Trained
+Fortitude Trained 4
+Reflex Expert 9
+Will Expert 6
+Strength 10 0
+Dexterity 18 4
+Constitution 12 1
+Intelligence 10 0
+Wisdom 12 1
+Charisma 16 3
+Perception Expert 5
+Acrobatics Trained 7
+Arcana Untrained 0
+Athletics Trained 3
+Crafting Untrained 0
+Deception Trained 6
+Diplomacy Trained 6
+Intimidation Trained 6
+Medicine Trained 4
+Nature Trained 4
+Occultism Untrained 0
+Performance Untrained 3
+Religion Untrained 1
+Society Untrained 0
+Stealth Trained 7
+Survival Trained 4
+Thievery Trained 7
+Weapon Dagger 0 d4 Piercing
+Weapon Hand-Crossbow 1 d6 Piercing

@@ -1,0 +1,34 @@
+Weapon Fist Type Melee Proficiency Unarmed Price 0 Damage 4 DamageType Bludgeoning Bulk 0 Hands 1 Group Brawling Traits Agile,Finesse,Nonlethal,Unarmed
+Weapon Club Type Melee Proficiency Simple Price 0 Damage 6 DamageType Bludgeoning Bulk 1 Hands 1 Group Club Range 10 Traits Thrown
+Weapon Dagger Type Melee Proficiency Simple Price .2 Damage 4 DamageType Piercing Bulk L Hands 1 Group Knife Range 10 Traits Agile,Finesse,Thrown,VersatileSlashing
+Weapon Gauntlet Type Melee Proficiency Simple Price .2 Damage 4 DamageType Bludgeoning Bulk L Hands 1 Group Brawling Traits Agile,Free-Hands
+Weapon LightMace Type Melee Proficiency Simple Price .4 Damage 4 DamageType Bludgeoning Bulk L Hands 1 Group Club Traits Agile,Finesse,Shove
+Weapon Longspear Type Melee Proficiency Simple Price .5 Damage 8 DamageType Piercing Bulk 2 Hands 2 Group Spear Traits Reach
+Weapon Spear Type Melee Proficiency Simple Price .1 Damage 6 DamageType Piercing Bulk 1 Hands 1 Group Spear Range 20 Traits Thrown
+Weapon Staff Type Melee Proficiency Simple Price 0 Damage 4 DamageType Bludgeoning Bulk 1 Hands 1 Group Club Traits Two-handd8
+Weapon BattleAxe Type Melee Proficiency Martial Price 1 Damage 8 DamageType Slashing Bulk 1 Hands 1 Group Axe Traits Sweep
+Weapon Bo Type Melee Proficiency Martial Price .2 Damage 8 DamageType Bludgeoning Bulk 2 Hands 2 Group Club Traits Monk,Parry,Reach,Trip
+Weapon Falchion Type Melee Proficiency Martial Price 3 Damage 10 DamageType Slashing Bulk 2 Hands 2 Group Sword Traits Forceful,Sweep
+Weapon Greataxe Type Melee Proficiency Martial Price 2 Damage 12 DamageType Slashing Bulk 2 Hands 2 Group Axe Traits Sweep
+Weapon GreatClub Type Melee Proficiency Martial Price 1 Damage 10 DamageType Bludgeoning Bulk 2 Hands 2 Group Club Traits Backswing,Shove
+Weapon Halberd Type Melee Proficiency Martial Price 2 Damage 10 DamageType Piercing Bulk 2 Hands 2 Group Polearm Traits Reach,VersatileSlashing
+Weapon Hatchet Type Melee Proficiency Martial Price .4 Damage 6 DamageType Slashing Bulk L Hands 1 Group Axe Range 10 Traits Agile,Sweep,Thrown
+Weapon Hammer Type Melee Proficiency Martial Price .3 Damage 6 DamageType Bludgeoning Bulk L Hands 1 Group Hammer Range 20 Traits Agile,Thrown
+Weapon Longsword Type Melee Proficiency Martial Price 1 Damage 8 DamageType Slashing Bulk 1 Hands 1 Group Sword Traits VersatilePiercing
+Weapon Maul Type Melee Proficiency Martial Price 3 Damage 12 DamageType Bludgeoning Bulk 2 Hands 2 Group Hammer Traits Shove
+Weapon Rapier Type Melee Proficiency Martial Price 2 Damage 6 DamageType Piercing Bulk 1 Hands 1 Group Sword Traits Deadlyd8,Disarm,Finesse
+Weapon Scimitar Type Melee Proficiency Martial Price 1 Damage 6 DamageType Slashing Bulk 1 Hands 1 Group Sword Traits Forceful,Sweep
+Weapon ShieldBoss Type Melee Proficiency Martial Price .5 Damage 6 DamageType Bludgeoning Bulk 0 Hands 1 Group Shield Traits None
+Weapon Shortsword Type Melee Proficiency Martial Price .9 Damage 6 DamageType Piercing Bulk L Hands 1 Group Sword Traits Agile,Finesse,VersatileSlashing
+Weapon Starknife Type Melee Proficiency Martial Price 2 Damage 4 DamageType Piercing Bulk L Hands 1 Group Knife Range 20 Traits Agile,Deadlyd6,Finesse,Thrown,VersatileSlashing
+Weapon Warhammer Type Melee Proficiency Martial Price 1 Damage 8 DamageType Bludgeoning Bulk 1 Hands 1 Group Hammer Traits Shove
+Weapon Crossbow Type Ranged Proficiency Simple Price 3 Damage 8 DamageType Piercing Bulk 1 Hands 1 Group Bow Range 120 Traits Reload1
+Weapon Dart Type Ranged Proficiency Simple Price .01 Damage 4 DamageType Piercing Bulk L Hands 1 Group Dart Range 20 Traits Agile,Thrown
+Weapon Hand-Crossbow Type Ranged Proficiency Simple Price 3 Damage 6 DamageType Piercing Bulk L Hands 1 Group Bow Range 60 Traits Reload1
+Weapon Heavy-Crossbow Type Ranged Proficiency Simple Price 4 Damage 10 DamageType Piercing Bulk 2 Hands 2 Group Bow Range 120 Traits Reload2
+Weapon Javelin Type Ranged Proficiency Simple Price .1 Damage 6 DamageType Piercing Bulk L Hands 1 Group Dart Range 30 Traits Thrown
+Weapon Sling Type Ranged Proficiency Simple Price 0 Damage 6 DamageType Bludgeoning Bulk L Hands 1 Group Sling Range 50 Traits Reload1,Propulsive
+Weapon Composite-Longbow Type Ranged Proficiency Martial Price 20 Damage 8 DamageType Piercing Bulk 2 Hands 2 Group Bow Range 100 Traits Deadlyd10,Propulsive,volley30
+Weapon Composite-Shortbow Type Ranged Proficiency Martial Price 14 Damage 6 DamageType Piercing Bulk 1 Hands 2 Group Bow Range 60 Traits Deadlyd10,Propulsive
+Weapon Longbow Type Ranged Proficiency Martial Price 6 Damage 8 DamageType Piercing Bulk 2 Hands 2 Group Bow Range 100 Traits Deadlyd10,volley30
+Weapon Shortbow Type Ranged Proficiency Martial Price 3 Damage 6 DamageType Piercing Bulk 1 Hands 2 Group Bow Range 60 Traits Deadlyd10

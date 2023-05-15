@@ -1,0 +1,10 @@
+Spell Acid_Splash Tradition Arcane/Primal Range 30 Shape Target 1 Damage 6 None 1 DamageType Acid Against AC Actions 2 Components Verbal/Somatic Heightened 2 6 Description Splash a glob of Acid_Splash
+Spell Chill_Touch Tradition Arcane/Divine/Occult Range 5 Shape Target 1 Damage 4 Ability 0 DamageType Negative Against Fortitude Actions 2 Components Verbal/Somatic Heightened 1 4 Description Siphon energy
+Spell Daze Tradition Arcane/Divine/Occult Range 60 Shape Target 1 Damage 0 Ability 0 DamageType Mental Against Will Actions 2 Components Verbal/Somatic Heightened 2 6 Description You cloud the mind with a jolt
+Spell Electric_Arc Tradition Arcane/Primal Range 30 Shape Target 2 Damage 4 Ability 0 DamageType Electricity Against Reflex Actions 2 Components Verbal/Somatic Heightened 1 4 Description Shoot an arc of lightning
+Spell Haunting_Hymn Tradition Divine/Occult Range 15 Shape Cone 0 Damage 0 Ability 0 DamageType Sonic Against Fortitude Actions 2 Components Verbal/Somatic Heightened 2 6 Description Sing a piercing hymn
+Spell Phase_Bolt Tradition Arcane/Occult Range 30 Shape Target 1 Damage 4 Ability 0 DamageType Piercing Against AC Actions 2 Components Verbal/Somatic Heightened 1 4 Description You project a phasing bolt of magical energy
+Spell Produce_Flame Tradition Arcane/Primal Range 30 Shape Target 1 Damage 4 Ability 0 DamageType Fire Against AC Actions 2 Components Verbal/Somatic Heightened 1 4 Description You throw a small ball of flame
+Spell Ray_of_Frost Tradition Arcane/Primal Range 120 Shape Target 1 Damage 4 Ability 0 DamageType Cold Against AC Actions 2 Components Verbal/Somatic Heightened 1 4 Description You throw an icy ray
+Spell Telekinetic_Projectile Tradition Arcane/Occult Range 30 Shape Target 1 Damage 6 Ability 0 DamageType Bludgeoning/Piercing/Slashing Against AC Actions 2 Components Verbal/Somatic Heightened 1 6 Description You hurl a loose object
+Spell Torturous_Trauma Tradition Arcane/Divine Range 30 Shape Target 1 Damage 4 Ability 0 DamageType Bludgeoning Against Fortitude Actions 2 Components Verbal/Somatic Heightened 1 4 Description You batter a target's internal organs

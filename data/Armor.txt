@@ -1,0 +1,12 @@
+Armor Clothing Category Unarmored Price .1 AC 0 DexCap 5 CheckPenalty 0 SpeedPenalty 0 Strength 0 Bulk L Group Cloth Traits Comfort
+Armor Padded Category Light Price .2 AC 1 DexCap 3 CheckPenalty 0 SpeedPenalty 0 Strength 10 Bulk L Group Cloth Traits Comfort
+Armor Leather Category Light Price 2 AC 1 DexCap 4 CheckPenalty -1 SpeedPenalty 0 Strength 10 Bulk 1 Group Leather Traits None
+Armor Studded Category Light Price 3 AC 2 DexCap 3 CheckPenalty -1 SpeedPenalty 0 Strength 12 Bulk 1 Group Leather Traits None
+Armor Chain_Shirt Category Light Price 5 AC 2 DexCap 3 CheckPenalty -1 SpeedPenalty 0 Strength 12 Bulk 1 Group Chain Traits Flexible,Noisy
+Armor Hide Category Medium Price 2 AC 3 DexCap 2 CheckPenalty -2 SpeedPenalty -5 Strength 14 Bulk 2 Group Leather Traits None
+Armor Scale_Mail Category Medium Price 4 AC 3 DexCap 2 CheckPenalty -2 SpeedPenalty -5 Strength 14 Bulk 2 Group Composite Traits None
+Armor Chain_Mail Category Medium Price 6 AC 4 DexCap 1 CheckPenalty -2 SpeedPenalty -5 Strength 16 Bulk 2 Group Chain Traits Flexible,Noisy
+Armor Breastplate Category Medium Price 8 AC 4 DexCap 1 CheckPenalty -2 SpeedPenalty -5 Strength 16 Bulk 2 Group Plate Traits None
+Armor Splint_Mail Category Heavy Price 13 AC 5 DexCap 1 CheckPenalty -3 SpeedPenalty -10 Strength 16 Bulk 3 Group Composite Traits None
+Armor Half_Plate Category Heavy Price 18 AC 5 DexCap 1 CheckPenalty -3 SpeedPenalty -10 Strength 16 Bulk 3 Group Plate Traits None
+Armor Full_Plate Category Heavy Price 30 AC 6 DexCap 0 CheckPenalty -3 SpeedPenalty -10 Strength 18 Bulk 4 Group Plate Traits Bulwark

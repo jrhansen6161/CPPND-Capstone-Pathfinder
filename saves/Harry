@@ -1,0 +1,44 @@
+Name Harry
+Ancestry Human
+Background Detective
+Class Wizard
+SpellTradition Arcane
+HP 43 43 6 8
+Speed 25 25
+Level 5
+Experience 0
+WeaponProficiency Simple Trained
+ArmorProficiency Unarmored Trained
+Armor Clothing 16
+ClassDC Intelligence Trained
+Fortitude Trained 8
+Reflex Trained 10
+Will Expert 9
+Strength 10 0
+Dexterity 16 3
+Constitution 12 1
+Intelligence 18 4
+Wisdom 10 0
+Charisma 12 1
+Perception Trained 2
+Acrobatics Trained 10
+Arcana Trained 11
+Athletics Untrained 0
+Crafting Trained 11
+Deception Trained 8
+Diplomacy Trained 8
+Intimidation Untrained 1
+Medicine Untrained 0
+Nature Untrained 0
+Occultism Trained 11
+Performance Untrained 1
+Religion Untrained 0
+Society Trained 11
+Stealth Trained 10
+Survival Untrained 0
+Thievery Untrained 3
+Weapon Fist 0 d4 Bludgeoning
+Weapon Staff 0 d4 Bludgeoning
+Spell Acid_Splash 30 1d6 + 1 Acid
+Spell Daze 60 1d6 Ability Modifer Mental
+Spell Ray_of_Frost 120 1d4 Ability Modifer Cold

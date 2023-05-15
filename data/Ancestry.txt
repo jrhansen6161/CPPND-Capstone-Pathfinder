@@ -1,0 +1,6 @@
+Ancestry Dwarf HP 10 Speed 20 Boost Constitution Boost Wisdom Boost Free Flaw Charisma
+Ancestry Elf HP 6 Speed 30 Boost Dexterity Boost Intelligence Boost Free Flaw Constitution
+Ancestry Gnome HP 8 Speed 25 Boost Constitution Boost Charisma Boost Free Flaw Strength
+Ancestry Goblin HP 6 Speed 25 Boost Dexterity Boost Charisma Boost Free Flaw Wisdom
+Ancestry Halfling HP 6 Speed 25 Boost Dexterity Boost Wisdom Boost Free Flaw Strength
+Ancestry Human HP 8 Speed 25 Boost Free Boost Free

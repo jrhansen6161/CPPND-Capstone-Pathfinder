@@ -1,0 +1,44 @@
+Name Groot
+Ancestry Human
+Background Herbalist
+Class Druid
+SpellTradition Primal
+HP 17 17 8 8
+Speed 25 25
+Level 1
+Experience 0
+WeaponProficiency Simple Trained
+ArmorProficiency 2 Trained
+Armor Studded AC 18
+ClassDC Wisdom Trained
+Fortitude Trained 4
+Reflex Trained 6
+Will Expert 9
+Strength 10 0
+Dexterity 16 3
+Constitution 12 1
+Intelligence 10 0
+Wisdom 18 4
+Charisma 12 1
+Perception Trained 6
+Acrobatics Trained 5
+Arcana Untrained -1
+Athletics Untrained -1
+Crafting Untrained -1
+Deception Untrained 0
+Diplomacy Untrained 0
+Intimidation Untrained 0
+Medicine Trained 6
+Nature Trained 6
+Occultism Untrained -1
+Performance Untrained 0
+Religion Untrained 3
+Society Untrained -1
+Stealth Trained 5
+Survival Trained 6
+Thievery Untrained 2
+Weapon Fist 0 d4 Bludgeoning
+Weapon Staff 0 d4 Bludgeoning
+Spell Electric_Arc 30 1d4 Ability Modifer Electricity
+Spell Ray_of_Frost 120 1d4 Ability Modifer Cold
+Spell Acid_Splash 30 1d6 + 1 Acid
